@@ -11,4 +11,3 @@ export function getVersionString(): string {
 export function getFullVersionString(): string {
   return `${APP_NAME} v${APP_VERSION}`;
 }
-
