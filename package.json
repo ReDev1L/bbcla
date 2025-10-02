@@ -1,0 +1,41 @@
+{
+	"name": "combat-log-analyzer",
+	"version": "0.1.1",
+	"private": true,
+	"scripts": {
+		"dev": "next dev --turbopack",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint",
+		"deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+		"preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+		"cf-typegen": "wrangler types --env-interface CloudflareEnv ./cloudflare-env.d.ts",
+		"db:generate": "drizzle-kit generate",
+		"db:migrate": "wrangler d1 migrations apply combat-logs-db",
+		"db:migrate:local": "wrangler d1 migrations apply combat-logs-db --local",
+		"db:studio": "drizzle-kit studio"
+	},
+	"dependencies": {
+		"@opennextjs/cloudflare": "^1.9.1",
+		"ag-charts-community": "^12.2.0",
+		"ag-charts-react": "^12.2.0",
+		"drizzle-orm": "^0.44.6",
+		"next": "15.4.6",
+		"react": "19.1.0",
+		"react-dom": "19.1.0"
+	},
+	"devDependencies": {
+		"@eslint/eslintrc": "^3.3.1",
+		"@tailwindcss/postcss": "^4.1.14",
+		"@types/node": "^20.19.19",
+		"@types/react": "^19.2.0",
+		"@types/react-dom": "^19.2.0",
+		"drizzle-kit": "^0.31.5",
+		"eslint": "^9.36.0",
+		"eslint-config-next": "15.4.6",
+		"tailwindcss": "^4.1.14",
+		"typescript": "^5.9.3",
+		"wrangler": "^4.41.0"
+	},
+	"packageManager": "pnpm@10.15.0+sha512.486ebc259d3e999a4e8691ce03b5cac4a71cbeca39372a9b762cb500cfdf0873e2cb16abe3d951b1ee2cf012503f027b98b6584e4df22524e0c7450d9ec7aa7b"
+}

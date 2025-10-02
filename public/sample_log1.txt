@@ -1,0 +1,105 @@
+0.0s	Guest 72981	Danger Candle gained +33% speed
+  -	Guest 72981	Boom Barrel gained +20% speed from Fanny Pack
+  -	Vald	Wooden Buckler added 10 Armor
+  -	Vald	Lucky Clover gained 1 Luck
+1.2s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+2.2s	Vald	Burn 1 Damage(-1 Armor)
+2.2s	Vald	1 Burn extinguished
+2.4s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+2.4s	Vald	Rusty Forge Hammer added 2 Armor
+  -	Vald	Rusty Forge Hammer 5 Damage
+2.5s	Vald	Iron Forge Hammer added 4 Armor
+  -	Vald	Iron Forge Hammer 5 Damage
+2.6s	Vald	Mining Pick 6 Damage
+3.4s	Vald	Burn 1 Damage(-1 Armor)
+3.4s	Vald	1 Burn extinguished
+3.6s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+4.6s	Vald	Burn 1 Damage(-1 Armor)
+4.6s	Vald	1 Burn extinguished
+4.8s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+4.8s	Vald	Rusty Forge Hammer added 2 Armor
+  -	Vald	Rusty Forge Hammer 4 Damage
+5.0s	Vald	Iron Forge Hammer added 4 Armor
+  -	Vald	Iron Forge Hammer 5 Damage
+5.2s	Vald	Mining Pick 5 Damage
+5.9s	Vald	Burn 1 Damage(-1 Armor)
+5.9s	Vald	1 Burn extinguished
+6.0s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+6.0s	Vald	Iron Ore added 5 Armor
+  -	Vald	Iron Ore 4 Damage
+6.0s	Vald	Iron Ore added 5 Armor
+  -	Vald	Iron Ore 4 Damage
+6.0s	Vald	Iron Ore missed
+7.0s	Vald	Burn 1 Damage(-1 Armor)
+7.0s	Vald	1 Burn extinguished
+7.2s	Vald	Rusty Forge Hammer added 2 Armor
+  -	Vald	Rusty Forge Hammer 5 Damage
+7.3s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+7.5s	Vald	Iron Forge Hammer added 4 Armor
+  -	Vald	Iron Forge Hammer 6 Damage
+7.9s	Guest 72981	Danger Candle stunned Vald (1.0s)
+  -	Guest 72981	Grandma's Dusty Blast Box inflicted 4 Burn
+  -	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Blind
+7.9s	Guest 72981	Danger Candle inflicted 4 Burn
+7.9s	Guest 72981	Danger Candle inflicted 1 Blind
+8.3s	Vald	Burn 9 Damage(-9 Armor)
+8.3s	Vald	1 Burn extinguished
+8.5s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+8.6s	Guest 72981	Boom Barrel stunned Vald (2.0s)
+8.6s	Guest 72981	Boom Barrel inflicted 8 Burn
+8.6s	Guest 72981	Boom Barrel inflicted 3 Blind
+8.9s	Guest 72981	Danger Candle inflicted 1 Burn
+9.3s	Vald	Burn 18 Damage(-18 Armor)
+9.3s	Vald	1 Burn extinguished
+9.6s	Guest 72981	Boom Barrel inflicted 2 Burn
+9.6s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+9.9s	Guest 72981	Danger Candle inflicted 1 Burn
+10.0s	Guest 72981	Day begins
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Guest 72981	Fanny Pack gained 1 Haste
+  -	Guest 72981	Fanny Pack gained 1 Haste
+  -	Guest 72981	Fanny Pack gained 1 Haste
+  -	Guest 72981	Fanny Pack gained 1 Haste
+10.0s	Guest 72981	Danger Candle stunned Vald (1.0s)
+  -	Guest 72981	Grandma's Dusty Blast Box inflicted 4 Burn
+  -	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Blind
+10.0s	Guest 72981	Danger Candle inflicted 4 Burn
+10.0s	Guest 72981	Danger Candle inflicted 1 Blind
+10.3s	Vald	Burn 29 Damage(-6 Armor)
+10.3s	Vald	1 Burn extinguished
+10.6s	Guest 72981	Boom Barrel inflicted 2 Burn
+10.8s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+10.9s	Guest 72981	Danger Candle inflicted 1 Burn
+11.0s	Guest 72981	Danger Candle inflicted 1 Burn
+11.1s	Vald	Mining Pick missed
+11.3s	Vald	Burn 33 Damage
+11.3s	Vald	1 Burn extinguished
+11.6s	Guest 72981	Boom Barrel inflicted 2 Burn
+11.9s	Guest 72981	Danger Candle inflicted 1 Burn
+12.0s	Guest 72981	Danger Candle stunned Vald (1.0s)
+12.0s	Guest 72981	Danger Candle inflicted 4 Burn
+12.0s	Guest 72981	Danger Candle inflicted 1 Blind
+12.0s	Guest 72981	Boom Barrel stunned Vald (2.0s)
+12.0s	Guest 72981	Boom Barrel inflicted 8 Burn
+12.0s	Guest 72981	Boom Barrel inflicted 3 Blind
+12.0s	Guest 72981	Danger Candle inflicted 1 Burn
+12.0s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+12.3s	Vald	Burn 49 Damage
+12.3s	Vald	1 Burn extinguished
+12.6s	Guest 72981	Boom Barrel inflicted 2 Burn
+12.9s	Guest 72981	Danger Candle inflicted 1 Burn
+12.9s	Guest 72981	Danger Candle inflicted 1 Burn
+12.9s	Guest 72981	Boom Barrel inflicted 2 Burn
+13.0s	Guest 72981	Danger Candle inflicted 1 Burn
+13.2s	Guest 72981	Grandma's Dusty Blast Box inflicted 1 Burn
+13.3s	Vald	Burn 56 Damage
+13.3s	Vald	1 Burn extinguished

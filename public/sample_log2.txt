@@ -1,0 +1,54 @@
+1.8s	Guest 72981	Wooden Sword 6 Damage
+1.8s	Ferta2805	Wooden Sword 2 Damage
+2.0s	Ferta2805	Training Blade missed
+2.0s	Ferta2805	Training Blade missed
+2.8s	Ferta2805	Wooden Club missed
+3.5s	Ferta2805	Wooden Sword 5 Damage
+  -	Ferta2805	Warrior Backpack added 2 Armor
+3.7s	Guest 72981	Wooden Sword gained 1 Stamina
+  -	Guest 72981	Wooden Sword 6 Damage(-2 Armor)
+3.9s	Ferta2805	Training Blade 3 Damage
+4.0s	Guest 72981	Rock 13 CritDamage (Critical)
+4.1s	Ferta2805	Training Blade out of Stamina
+5.4s	Ferta2805	Wooden Sword 4 Damage
+5.5s	Guest 72981	Wooden Sword gained 1 Stamina
+  -	Guest 72981	Wooden Sword 6 Damage
+5.7s	Ferta2805	Wooden Club out of Stamina
+6.0s	Ferta2805	Training Blade 4 Damage
+6.2s	Ferta2805	Training Blade out of Stamina
+7.3s	Guest 72981	Wooden Sword 4 Damage
+7.3s	Ferta2805	Wooden Sword missed
+  -	Ferta2805	Warrior Backpack added 2 Armor
+8.0s	Ferta2805	Training Blade 3 Damage
+8.2s	Ferta2805	Training Blade out of Stamina
+8.5s	Ferta2805	Wooden Club out of Stamina
+9.1s	Ferta2805	Wooden Sword 2 Damage
+9.2s	Guest 72981	Wooden Sword missed
+10.0s	Ferta2805	Training Blade 4 Damage
+10.0s	Guest 72981	Day begins
+  -	Guest 72981	Cutting Board Bag gained 8 MaxHealth
+  -	Guest 72981	Medium Bag healed 4 Health
+  -	Ferta2805	Cactus gained 1 Thorns
+  -	Ferta2805	Warrior Backpack added 2 Armor
+10.2s	Ferta2805	Training Blade out of Stamina
+10.8s	Ferta2805	Wooden Sword out of Stamina
+11.0s	Guest 72981	Wooden Sword 6 Damage(-4 Armor)
+  -	Ferta2805	Thorns 1 Damage
+11.3s	Ferta2805	Wooden Club out of Stamina
+12.1s	Ferta2805	Training Blade missed
+12.2s	Ferta2805	Training Blade 3 Damage
+12.7s	Ferta2805	Wooden Sword out of Stamina
+12.8s	Guest 72981	Wooden Sword gained 1 Stamina
+  -	Guest 72981	Wooden Sword 6 Damage
+  -	Ferta2805	Thorns 1 Damage
+14.1s	Ferta2805	Training Blade 4 Damage
+14.1s	Ferta2805	Training Blade out of Stamina
+14.2s	Ferta2805	Wooden Club out of Stamina
+14.6s	Ferta2805	Wooden Sword 5 Damage
+14.7s	Guest 72981	Wooden Sword 13 CritDamage (Critical)
+  -	Ferta2805	Thorns 2 Damage
+16.1s	Ferta2805	Training Blade 3 Damage
+16.1s	Ferta2805	Training Blade out of Stamina
+16.4s	Ferta2805	Wooden Sword missed
+16.4s	Guest 72981	Wooden Sword 6 Damage
+  -	Ferta2805	Thorns 1 Damage
