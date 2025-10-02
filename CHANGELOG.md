@@ -5,6 +5,22 @@ All notable changes to the Backpack Brawl Combat Log Analyzer will be documented
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.2] - 2025-10-02
+
+### Added
+- 📄 **Legal Disclaimer** - Added disclaimer to README and footer
+  - Clarifies project is not affiliated with Rapidfire Games or Azur Games
+  - States Backpack Brawl is a trademark of the game developers
+  - Identifies this as an independent fan-made educational project
+- 🔗 **Enhanced Footer** - Improved footer with better information architecture
+  - Added GitHub repository link with icon
+  - Added direct links to Cloudflare D1 and AG Charts documentation
+  - Restructured layout for better readability
+
+### Changed
+- Footer layout reorganized with centered content and improved spacing
+- Technology stack links now clickable and lead to official documentation
+
 ## [0.1.1] - 2025-10-02
 
 ### Fixed
@@ -86,6 +102,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Version History
 
+- **0.1.2** - Legal disclaimer and footer enhancements
 - **0.1.1** - Bug fix for burn mechanic parsing
 - **0.1.0** - Initial beta release with complete feature set
 

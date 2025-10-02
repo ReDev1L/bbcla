@@ -263,6 +263,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 MIT
 
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or sponsored by [Rapidfire Games](https://rapidfire.games/) or [Azur Games](https://azurgames.com/). Backpack Brawl is a trademark and property of Rapidfire Games and Azur Games. This tool is an independent fan-made project created for educational and analytical purposes.
+
 ## Acknowledgments
 
 - Backpack Brawl - The game ([Google Play](https://play.google.com/store/apps/details?id=com.rapidfiregames.backpackbrawl) | [App Store](https://apps.apple.com/us/app/backpack-brawl-hero-battles/id6479175676))
